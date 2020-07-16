@@ -13,7 +13,7 @@ npm install expo-cli --global
 **Clonando o repositório e instalando as dependências**
 ````git
 git clone https://github.com/Riukkon/galeria-secreta-react-native.git
-cd galeria-secreta-react-native
+cd galeria-secreta-react-native/mobile
 npm install
 ````
 
@@ -21,7 +21,6 @@ npm install
 
 **Neste momento basta executar os comandos abaixo e o projeto irá rodar (necessário conexão com internet)**
 ````git
-cd mobile
 npm start
 ````
 
