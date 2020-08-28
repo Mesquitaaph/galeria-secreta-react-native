@@ -7,7 +7,7 @@ Para rodar o projeto utilizaremos o Expo CLI. Por isso é necessário instalá-l
 
 **Instalando o Expo CLI de forma global**
 ````git
-npm install expo-cli --global
+npm install -g expo-cli
 ````
 
 **Clonando o repositório e instalando as dependências**
